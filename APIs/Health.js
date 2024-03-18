@@ -1,7 +1,7 @@
 
 console.log("Download the app 'MyCharts' that would have all the reports, documents.")
 console.log();
-console.log();
+//console.log();
 console.log("Immunization Requirement :- https://med.uc.edu/landing-pages/university-health/vaccination/college-of-medicine-md-immunization-requirements"); //Immunizations 
 console.log(); //for blank line
 console.log("Immunization Requirement for International Students :- https://med.uc.edu/landing-pages/university-health/vaccination/international-student-immunization-requirements"); //Immunization for Internation Students
@@ -12,3 +12,16 @@ console.log("Emergencies: Please call 911"); //Emergency line
 console.log();
 console.log("There are off campus  emergency numbers available as well."); //Off campus emergency
 console.log();
+//Vitamins that we need 
+// Managing Sleep 
+// Building scheduling 
+// precatution that you can take for different type of  illnesses (like covid, chickpox, sexual diseases)
+//Workout and  Healthy Eating Plan
+var wt = prompt ("Please enter how much  weight do you want to lose?") ;
+var weight = parseFloat(wt);
+var  hg = prompt ("What is your height in inches?");
+var  height=parseFloat(hg);
+// Calculte the BMI of person 
+//console.log("How much hours do you sleep?"); //might not be needed 
+var sleep =  prompt("Enter number of hours you sleep : ");
+
