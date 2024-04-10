@@ -1,0 +1,13 @@
+/* Header.css */
+.header {
+    background-color: red; /* Set the background color to red */
+    color: white; /* Set the text color to white */
+    padding: 10px 0; /* Add some padding above and below the text */
+    text-align: center; /* Center the text horizontally */
+    width: 100%; /* Ensure the header spans the full width of the viewport */
+    position: fixed; /* Fix the header at the top of the viewport */
+    top: 0; /* Position the header at the very top */
+    left: 0; /* Align the header to the left edge */
+    z-index: 100; /* Ensure the header appears above other content */
+  }
+  

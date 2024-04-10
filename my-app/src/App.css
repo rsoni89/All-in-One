@@ -3,13 +3,8 @@
   display: flex;
 }
 
-.sidebar {
-  position: fixed;
-  width: 200px;
-  height: 100vh;
-  overflow-y: auto;
-  background-color: #f4f4f4;
-}
+
+
 
 .content {
   margin-left: 200px;
@@ -19,5 +14,26 @@
 section {
   margin-bottom: 50px;
 }
+
+.appHeader {
+  background-color: red; /* Red background */
+  color: white; /* White text */
+  padding: 10px 20px; /* Padding around the text */
+  text-align: center; /* Center the text horizontally */
+  width: 100%; /* Full width to span across the page */
+  position: fixed; /* Fixed at the top */
+  top: 0; /* Top position */
+  left: 0; /* Align left to the viewport */
+  z-index: 1000; /* Ensure it's above other content */
+}
+
+.content {
+  margin-top: 60px; /* Adjust this value based on the actual height of your header to prevent content from being hidden behind it */
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
 
 /* Add more styling for fonts, colors, active links, etc., as needed */

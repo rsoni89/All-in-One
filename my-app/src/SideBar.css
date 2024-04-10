@@ -1,0 +1,9 @@
+.sidebar {
+    position: fixed; /* or 'absolute', depending on your layout needs */
+    top: 50px; /* Match this value to your header's height */
+    left: 0;
+    width: 200px; /* Adjust width as needed */
+    background-color: #f4f4f4; /* Example background color */
+    height: calc(100% - 50px); /* Subtract header height to prevent overflow */
+    overflow-y: auto; /* Allows scrolling within the sidebar */
+  }

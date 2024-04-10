@@ -1,0 +1,21 @@
+/* Content.css */
+.content {
+    margin-top: 60px; /* Adjust based on your header height */
+    padding: 20px;
+  }
+  
+  .section {
+    margin-bottom: 40px; /* Space between sections */
+    padding: 20px;
+    background-color: #f0f0f0; /* Light background for each section */
+    border-radius: 8px; /* Optional: adds rounded corners for aesthetics */
+  }
+  
+  .section h2 {
+    color: #333; /* Darker color for the section titles */
+  }
+  
+  .section p {
+    color: #666; /* Lighter color for the section content */
+  }
+  
