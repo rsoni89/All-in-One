@@ -1,4 +1,5 @@
 // App.js
+
 import React from 'react';
 import Header from './Header';
 import './App.css';
@@ -8,7 +9,7 @@ function App() {
     <div className="appContainer">
       <Header />
       <Sidebar />
-      <Content />   
+      <Content />
     </div>
   );
 }
@@ -28,11 +29,12 @@ function Sidebar() {
 }
 
 function Content() {
+  const introContent = require('./introContent.txt').default;
   return (
     <div className="content">
       <section id="introduction">
         <h2>Introduction</h2>
-        <p>Content for the Introduction section goes here.</p>
+        <p>{introContent}</p>
       </section>
       <section id="setup">
         <h2>Setup</h2>
