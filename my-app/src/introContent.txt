@@ -1,1 +1,4 @@
 introContent
+
+Hello! Welcome to University of Cincinnati! I will guide to you to various different sections of the app. 
+This app contains tips, tricks and resources for students in different areas such as Health, Finance and Academics.

@@ -9,8 +9,8 @@ console.log("Different ways to practice for technical interviews: ")// Heading
  "2) Practice problems from websites like leetcode, hackerrank, etc...",
  "3) Practicing coding with different projects on GitHub",
  "4) Networking and reaching out to people in your field",
-"5) Researching companies you're interested in and understanding",
-"6) Taking online courses or certifications related to your field",
+ "5) Researching companies you're interested in and understanding",
+ "6) Taking online courses or certifications related to your field",
    ] 
 };
 console.log("How to land coops?"); // necessary steps to take for it 
