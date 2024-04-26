@@ -25,5 +25,3 @@ Installation:
 
 **We welcome contributions from the community to improve All in one App. If you have ideas for new features, bug fixes, or general feedback, please submit an issue or pull request on our GitHub repository.**
 
-# License
-This project is licensed under the MIT License.
