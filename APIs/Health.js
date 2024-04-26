@@ -8,11 +8,13 @@ console.log("Immunization Requirement for International Students :- https://med.
 console.log();
 console.log("Mental Health :- https://med.uc.edu/landing-pages/university-health/emergencysituations/mentalhealth"); //Mental Health
 console.log(); //for blank line
-console.log("Emergencies: Please call 911"); //Emergency line 
-console.log();
+console.log("Emergencies: Please call 911"); //Emergency line
 console.log("There are off campus  emergency numbers available as well."); //Off campus emergency
 console.log();
-//Vitamins that we need 
+consele.log("If you need to contact the police but are unable to make a phone call, you can use the chat feature in the: https://www.uc.edu/about/publicsafety/services/guardian-app.html");
+console.log("If you have any questions or concerns about the behavior of a student, please contact the Dean of Students office at 513-5564119 o email deanofstudents@uc.edu")
+//Vitamins that we need
+
 // Managing Sleep 
 // Building scheduling 
 // precatution that you can take for different type of  illnesses (like covid, chickpox, sexual diseases)
@@ -24,4 +26,4 @@ var  height=parseFloat(hg);
 // Calculte the BMI of person 
 //console.log("How much hours do you sleep?"); //might not be needed 
 var sleep =  prompt("Enter number of hours you sleep : ");
-
+var sleephrs = parseFloat(sleep);
