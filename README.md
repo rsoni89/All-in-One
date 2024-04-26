@@ -9,12 +9,13 @@ Mental Health Check-in: Take regular assessments and access resources for mental
 Nutrition Guide: Receive nutrition tips and meal plans to support your overall health.
 2. Education
 Study strategies: Organize your study schedule, set reminders, and track your progress.
-Subject-specific Resources: Access curated materials, tailored to your academic interests.
-Peer Collaboration: Connect with classmates, join study groups, and collaborate on assignments.
-3. Finance
+Subject-specific Resources: Access materials, tailored to your academic interests.
+Peer Collaboration: Connect with classmates, join study groups, and collaborate.
+Co-ops or internships
+4. Finance
 Budgeting Tools: Manage your expenses and track your spending to maintain financial stability.
 Scholarship Finder: Explore available scholarships and grants to alleviate financial burdens.
-Part-time Job Listings: Discover employment opportunities on and off-campus to support your financial needs.
+Part-time Job Listings: Discover employment opportunities on and off campus to support your financial needs.
 # Getting Started
 To get started with the All in one App, follow these steps:
 
